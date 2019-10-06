@@ -1,0 +1,11 @@
+﻿User-agent: *
+Disallow: /Destek/Video/
+Disallow: /Destek/Video/digiguide/
+Disallow: /Destek/Video/digiguide/4/
+Sitemap: http://contentlibrary.digiturk.com.tr/sitemaps/daily_sitemap/general/sitemap.xml
+Sitemap: http://contentlibrary.digiturk.com.tr/sitemaps/old_sitemap/general/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /Destek/Video/
+Disallow: /Destek/Video/digiguide/
+Disallow: /Destek/Video/digiguide/4/

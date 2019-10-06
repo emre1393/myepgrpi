@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" site="turksatkablo.com.tr">
+  <channels>
+    <channel update="i" site="turksatkablo.com.tr" site_id="1" xmltv_id="KABLO INFO.tr">KABLO INFO</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="2" xmltv_id="SİNEMA TV HD.tr">SİNEMA TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="3" xmltv_id="SİNEMA 2 HD.tr">SİNEMA 2 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="4" xmltv_id="SİNEMA AKSİYON HD.tr">SİNEMA AKSİYON HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="5" xmltv_id="SİNEMA AKSİYON 2 HD.tr">SİNEMA AKSİYON 2 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="6" xmltv_id="SİNEMA YERLİ.tr">SİNEMA YERLİ</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="7" xmltv_id="SİNEMA YERLİ 2.tr">SİNEMA YERLİ 2</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="8" xmltv_id="SİNEMA AİLE HD.tr">SİNEMA AİLE HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="9" xmltv_id="SİNEMA AİLE 2 HD.tr">SİNEMA AİLE 2 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="10" xmltv_id="SİNEMA 1001 HD.tr">SİNEMA 1001 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="11" xmltv_id="SİNEMA 1002.tr">SİNEMA 1002</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="12" xmltv_id="SİNEMA KOMEDİ HD.tr">SİNEMA KOMEDİ HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="13" xmltv_id="SİNEMA KOMEDİ 2 HD.tr">SİNEMA KOMEDİ 2 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="22" xmltv_id="TRT 1 HD.tr">TRT 1 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="23" xmltv_id="ATV HD.tr">ATV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="24" xmltv_id="SHOW TV HD.tr">SHOW TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="25" xmltv_id="KANAL D HD.tr">KANAL D HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="26" xmltv_id="STAR TV HD.tr">STAR TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="27" xmltv_id="KANAL 7 HD.tr">KANAL 7 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="28" xmltv_id="FOX HD.tr">FOX HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="29" xmltv_id="TV8 HD.tr">TV8 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="30" xmltv_id="BEYAZ TV HD.tr">BEYAZ TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="31" xmltv_id="A2 HD.tr">A2 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="32" xmltv_id="TEVE2 HD.tr">TEVE2 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="33" xmltv_id="360 HD.tr">360 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="34" xmltv_id="TLC HD.tr">TLC HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="35" xmltv_id="LIFETIME.tr">LIFETIME</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="36" xmltv_id="KON TV.tr">KON TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="38" xmltv_id="OLAY TV.tr">OLAY TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="39" xmltv_id="ULUSAL KANAL.tr">ULUSAL KANAL</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="40" xmltv_id="KANAL 16.tr">KANAL 16</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="42" xmltv_id="BEYKENT TV.tr">BEYKENT TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="43" xmltv_id="KANAL B.tr">KANAL B</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="44" xmltv_id="KIBRIS GENÇ TV.tr">KIBRIS GENÇ TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="45" xmltv_id="UÇANKUŞ TV.tr">UÇANKUŞ TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="46" xmltv_id="EM TV.tr">EM TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="47" xmltv_id="DMAX HD.tr">DMAX HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="48" xmltv_id="TVT.tr">TVT</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="49" xmltv_id="BENGÜ TÜRK.tr">BENGÜ TÜRK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="55" xmltv_id="TRT HABER HD.tr">TRT HABER HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="56" xmltv_id="A HABER HD.tr">A HABER HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="57" xmltv_id="NTV HD.tr">NTV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="58" xmltv_id="CNN TÜRK HD.tr">CNN TÜRK HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="59" xmltv_id="24 TV.tr">24 TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="60" xmltv_id="TGRT HABER.tr">TGRT HABER</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="61" xmltv_id="HABERTÜRK.tr">HABERTÜRK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="62" xmltv_id="BLOOMBERG HT HD.tr">BLOOMBERG HT HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="63" xmltv_id="ÜLKE TV HD.tr">ÜLKE TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="64" xmltv_id="TVNET HD.tr">TVNET HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="65" xmltv_id="AKİT TV.tr">AKİT TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="66" xmltv_id="BRT 1 HD.tr">BRT 1 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="67" xmltv_id="TRT TÜRK.tr">TRT TÜRK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="68" xmltv_id="TRT AVAZ HD.tr">TRT AVAZ HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="69" xmltv_id="TRT 3 -  SPOR.tr">TRT 3 -  SPOR</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="70" xmltv_id="TRT KURDİ.tr">TRT KURDİ</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="77" xmltv_id="A PARA.tr">A PARA</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="78" xmltv_id="EKOTÜRK.tr">EKOTÜRK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="88" xmltv_id="TRT WORLD HD.tr">TRT WORLD HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="89" xmltv_id="A NEWS HD.tr">A NEWS HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="90" xmltv_id="CNN INTERNATIONAL.tr">CNN INTERNATIONAL</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="91" xmltv_id="BBC WORLD NEWS.tr">BBC WORLD NEWS</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="92" xmltv_id="BLOOMBERG HT.tr">BLOOMBERG HT</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="95" xmltv_id="AL JAZEERA ARABIC.tr">AL JAZEERA ARABIC</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="96" xmltv_id="AL JAZEERA INTERNATIONAL.tr">AL JAZEERA INTERNATIONAL</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="102" xmltv_id="DEUTSCHE WELLE (EN).tr">DEUTSCHE WELLE (EN)</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="103" xmltv_id="DEUTSCHE WELLE (DE).tr">DEUTSCHE WELLE (DE)</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="105" xmltv_id="FRANCE 24 HD-EN.tr">FRANCE 24 HD-EN</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="106" xmltv_id="FRANCE 24 HD-FR.tr">FRANCE 24 HD-FR</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="108" xmltv_id="CGTN.tr">CGTN</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="109" xmltv_id="RUSSIA 24.tr">RUSSIA 24</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="111" xmltv_id="TRT BELGESEL HD.tr">TRT BELGESEL HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="112" xmltv_id="NATIONAL GEOGRAPHIC HD.tr">NATIONAL GEOGRAPHIC HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="114" xmltv_id="NAT GEO PEOPLE HD.tr">NAT GEO PEOPLE HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="116" xmltv_id="ANIMAL PLANET HD.tr">ANIMAL PLANET HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="117" xmltv_id="DISCOVERY ID.tr">DISCOVERY ID</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="118" xmltv_id="DISCOVERY SCIENCE HD.tr">DISCOVERY SCIENCE HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="119" xmltv_id="VIASAT NATURE - HISTORY.tr">VIASAT NATURE - HISTORY</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="120" xmltv_id="TREK HD.tr">TREK HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="121" xmltv_id="SCIENCE &amp; VIE HD.tr">SCIENCE &amp; VIE HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="122" xmltv_id="DOCUBOX HD.tr">DOCUBOX HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="130" xmltv_id="VIASAT EXPLORE.tr">VIASAT EXPLORE</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="131" xmltv_id="ANIMAUX.tr">ANIMAUX</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="132" xmltv_id="RTG INT.tr">RTG INT</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="133" xmltv_id="CGTN 9 DOCUMENTARY.tr">CGTN 9 DOCUMENTARY</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="134" xmltv_id="CHASSE ET PECHE.tr">CHASSE ET PECHE</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="140" xmltv_id="AZ TV 1.tr">AZ TV 1</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="141" xmltv_id="TÜRKMENELİ TV HD.tr">TÜRKMENELİ TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="142" xmltv_id="BBC ENTERTAINMENT.tr">BBC ENTERTAINMENT</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="143" xmltv_id="TV5 MONDE.tr">TV5 MONDE</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="144" xmltv_id="CCTV 4.tr">CCTV 4</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="145" xmltv_id="SAUDI TV 1.tr">SAUDI TV 1</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="146" xmltv_id="KAZAKH TV.tr">KAZAKH TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="147" xmltv_id="HAYAT PLUS.tr">HAYAT PLUS</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="148" xmltv_id="RTR PLANETA.tr">RTR PLANETA</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="149" xmltv_id="KBS TV.tr">KBS TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="150" xmltv_id="NHK WORLD.tr">NHK WORLD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="151" xmltv_id="ARIRANG.tr">ARIRANG</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="222" xmltv_id="TRT SPOR HD.tr">TRT SPOR HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="223" xmltv_id="beIN SPORTS HABER HD.tr">beIN SPORTS HABER HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="224" xmltv_id="A SPOR.tr">A SPOR</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="225" xmltv_id="EUROSPORT 1 HD.tr">EUROSPORT 1 HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="226" xmltv_id="EUROSPORT 2 TR HD.tr">EUROSPORT 2 TR HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="227" xmltv_id="FOX SPORTS HD.tr">FOX SPORTS HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="228" xmltv_id="TRACE SPORT STARS HD.tr">TRACE SPORT STARS HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="229" xmltv_id="AUTOMOTO HD.tr">AUTOMOTO HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="230" xmltv_id="FIGHTBOX HD.tr">FIGHTBOX HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="231" xmltv_id="FAST AND FUN HD.tr">FAST AND FUN HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="232" xmltv_id="beIN SPORTS 1.tr">beIN SPORTS 1</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="233" xmltv_id="beIN SPORTS 2.tr">beIN SPORTS 2</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="234" xmltv_id="beIN SPORTS 3.tr">beIN SPORTS 3</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="235" xmltv_id="beIN SPORTS 4.tr">beIN SPORTS 4</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="236" xmltv_id="beIN SPORTS MAX 1.tr">beIN SPORTS MAX 1</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="237" xmltv_id="beIN SPORTS MAX 2.tr">beIN SPORTS MAX 2</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="245" xmltv_id="SPORTS TV.tr">SPORTS TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="246" xmltv_id="FENERBAHÇE TV.tr">FENERBAHÇE TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="333" xmltv_id="FOX LIFE HD.tr">FOX LIFE HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="334" xmltv_id="FX HD.tr">FX HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="335" xmltv_id="FOX CRIME HD.tr">FOX CRIME HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="336" xmltv_id="FILMBOX HD.tr">FILMBOX HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="344" xmltv_id="FILMBOX ARTHOUSE.tr">FILMBOX ARTHOUSE</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="355" xmltv_id="24KITCHEN.tr">24KITCHEN</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="366" xmltv_id="FUNBOX UHD 4K.tr">FUNBOX UHD 4K</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="367" xmltv_id="GAMETOON HD.tr">GAMETOON HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="444" xmltv_id="TRT ÇOCUK.tr">TRT ÇOCUK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="445" xmltv_id="MİNİKA ÇOCUK.tr">MİNİKA ÇOCUK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="446" xmltv_id="MİNİKA GO.tr">MİNİKA GO</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="455" xmltv_id="BABY TV.tr">BABY TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="456" xmltv_id="DISNEY CHANNEL.tr">DISNEY CHANNEL</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="457" xmltv_id="CARTOON NETWORK.tr">CARTOON NETWORK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="459" xmltv_id="DUCKTV HD.tr">DUCKTV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="460" xmltv_id="ENGLISH CLUB TV HD.tr">ENGLISH CLUB TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="461" xmltv_id="DA VINCI LEARNING HD.tr">DA VINCI LEARNING HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="556" xmltv_id="SAUDI QURAN.tr">SAUDI QURAN</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="557" xmltv_id="AL SUNNAH AL NABAWIYAH.tr">AL SUNNAH AL NABAWIYAH</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="666" xmltv_id="TRT MÜZİK.tr">TRT MÜZİK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="669" xmltv_id="TMB.tr">TMB</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="670" xmltv_id="DREAM TV.tr">DREAM TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="671" xmltv_id="POWER TV HD.tr">POWER TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="673" xmltv_id="360 TUNE BOX.tr">360 TUNE BOX</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="674" xmltv_id="TRACE URBAN HD.tr">TRACE URBAN HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="888" xmltv_id="LINETV.tr">LINETV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="900" xmltv_id="TRT 1.tr">TRT 1</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="901" xmltv_id="SHOW TV.tr">SHOW TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="902" xmltv_id="ATV.tr">ATV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="903" xmltv_id="KANAL 7.tr">KANAL 7</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="904" xmltv_id="BRT 1.tr">BRT 1</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="905" xmltv_id="STAR TV.tr">STAR TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="906" xmltv_id="BEYAZ TV.tr">BEYAZ TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="907" xmltv_id="TV8.tr">TV8</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="908" xmltv_id="KANAL D.tr">KANAL D</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="909" xmltv_id="FOX.tr">FOX</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="911" xmltv_id="TRT SPOR.tr">TRT SPOR</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="912" xmltv_id="A SPOR HD.tr">A SPOR HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="914" xmltv_id="TRT ÇOCUK HD.tr">TRT ÇOCUK HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="915" xmltv_id="TRT BELGESEL.tr">TRT BELGESEL</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="916" xmltv_id="NATIONAL GEOGRAPHIC.tr">NATIONAL GEOGRAPHIC</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="918" xmltv_id="TRT HABER.tr">TRT HABER</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="919" xmltv_id="A HABER.tr">A HABER</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="920" xmltv_id="NTV.tr">NTV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="921" xmltv_id="CNN TÜRK.tr">CNN TÜRK</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="922" xmltv_id="HABERTÜRK HD.tr">HABERTÜRK HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="923" xmltv_id="ÜLKE TV.tr">ÜLKE TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="924" xmltv_id="TVNET.tr">TVNET</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="925" xmltv_id="BLOOMBERG TV.tr">BLOOMBERG TV</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="926" xmltv_id="TLC.tr">TLC</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="927" xmltv_id="TEVE2.tr">TEVE2</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="928" xmltv_id="A2.tr">A2</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="929" xmltv_id="360.tr">360</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="930" xmltv_id="24 TV HD.tr">24 TV HD</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="931" xmltv_id="DMAX.tr">DMAX</channel>
+    <channel update="i" site="turksatkablo.com.tr" site_id="9999" xmltv_id="NATIONAL GEOGRAPHIC WILD.tr">NATIONAL GEOGRAPHIC WILD</channel>
+  </channels>
+</site>
