@@ -508,7 +508,7 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
   <channel update="i" site="digiturk.com.tr" site_id="437" xmltv_id="NatGeoPeopleHD.tr">Nat Geo People HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="179" xmltv_id="NatGeoWildHD.tr">Nat Geo Wild HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="57" xmltv_id="HistoryHD.tr">History HD</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="260" xmltv_id="TRTBelgeselHD.tr">TRT Belgesel HD</channel>
+  <channel update="i" site="digiturk.com.tr" site_id="487" xmltv_id="TRTBelgeselHD.tr">TRT Belgesel HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="317" xmltv_id="DiscoveryChannelHD.tr">Discovery Channel HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="318" xmltv_id="DiscoveryScienceHD.tr">Discovery Science HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="524" xmltv_id="CGTNDOCUMENTARYHD.tr">CGTN DOCUMENTARY HD</channel>
