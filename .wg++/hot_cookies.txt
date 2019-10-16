@@ -1,6 +1,6 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 15/10/2019 05:59
+#  Saved by WG++ 16/10/2019 05:55
 #  Response cookie from url :https://www.tvguide.co.uk/mobile/channellisting.asp?ch=1153
 
-www.tvguide.co.uk	FALSE	/	FALSE	1602637200	TVGID%5Fsession	9999
-www.tvguide.co.uk	FALSE	/	TRUE	0	ASPSESSIONIDAGCQARQR	PHKPNKJCIKNEFNILDGIONCAI
+www.tvguide.co.uk	FALSE	/	FALSE	1602723600	TVGID%5Fsession	9999
+www.tvguide.co.uk	FALSE	/	TRUE	0	ASPSESSIONIDAEAQARQQ	HHMNEDEDFPLCCGEEPHEPBBDK
