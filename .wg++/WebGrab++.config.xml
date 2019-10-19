@@ -516,7 +516,7 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
   <channel update="i" site="digiturk.com.tr" site_id="37" xmltv_id="beINBOXOFFICE2HD.tr">beIN BOX OFFICE 2 HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="38" xmltv_id="beINBOXOFFICE3HD.tr">beIN BOX OFFICE 3 HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="415" xmltv_id="İdmanAzerbaycan.tr">İdman Azerbaycan</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="330" xmltv_id="TRT1HD.tr">TRT1 HD</channel>
+  <channel update="i" site="digiturk.com.tr" site_id="330" xmltv_id="TRT1HD.tr">TRT 1 HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="488" xmltv_id="TRTHaberHD.tr">TRT Haber HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="491" xmltv_id="Digiturk4K.tr">Digiturk 4K</channel>
   <channel update="i" site="digiturk.com.tr" site_id="91" xmltv_id="ALEMFM.tr">ALEM FM</channel>
