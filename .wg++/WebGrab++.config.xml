@@ -13,7 +13,6 @@
   <update>f</update>
 
   <!--
-epg data from awk.epgsky.com and m.tvguide.co.uk-index
             Replace the next dummy channel entry with the channels you want.
 			You can look into the installed siteini.pack folder on your computer
 
@@ -21,7 +20,7 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-
+<!--
   <channel update="i" site="awk.epgsky.com" site_id="2076" xmltv_id="BBCOneHD.uk">BBC One HD</channel>
   <channel update="i" site="awk.epgsky.com" site_id="2075" xmltv_id="BBCTwoHD.uk">BBC Two HD</channel>
   <channel update="i" site="awk.epgsky.com" site_id="6504" xmltv_id="ITVHD.uk">ITV HD</channel>
@@ -399,6 +398,8 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
   <channel update="i" site="m.tvguide.co.uk-index" site_id="1268" xmltv_id="ChelseaTVHD.uk">Chelsea TV HD</channel>
   <channel update="i" site="m.tvguide.co.uk-index" site_id="1153" xmltv_id="BBCWorldService.uk">BBC World Service</channel>
 
+-->
+
   <channel update="i" site="digiturk.com.tr" site_id="484" xmltv_id="beINHD.tr">beIN HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="375" xmltv_id="beINSERIESSCI-FIHD.tr">beIN SERIES SCI-FI HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="326" xmltv_id="beINSERIESCOMEDYHD.tr">beIN SERIES COMEDY HD</channel>
@@ -412,7 +413,7 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
   <channel update="i" site="digiturk.com.tr" site_id="335" xmltv_id="beINMOVIESFAMILYHD.tr">beIN MOVIES FAMILY HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="381" xmltv_id="beINMOVIESTURKHD.tr">beIN MOVIES TURK HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="299" xmltv_id="beINİZHD.tr">beIN İZ HD</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="456" xmltv_id="beINHOME&amp;ENTERTAINMENTHD.tr">beIN HOME &amp; ENTERTAINMENT HD</channel>
+  <channel update="i" site="digiturk.com.tr" site_id="456" xmltv_id="beINHOMEandENTERTAINMENTHD.tr">beIN HOME and ENTERTAINMENT HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="407" xmltv_id="beINGURMEHD.tr">beIN GURME HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="294" xmltv_id="ShowTVHD.tr">Show TV HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="430" xmltv_id="KanalDHD.tr">Kanal D HD</channel>
@@ -557,7 +558,7 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
   <channel update="i" site="dsmart.com.tr" site_id="62" xmltv_id="Ambiance.tr">Ambiance</channel>
   <channel update="i" site="dsmart.com.tr" site_id="64" xmltv_id="FashionTV.tr">Fashion TV</channel>
   <channel update="i" site="dsmart.com.tr" site_id="65" xmltv_id="TraceUrban.tr">Trace Urban</channel>
-  <channel update="i" site="dsmart.com.tr" site_id="66" xmltv_id="Fast&amp;Fun.tr">Fast &amp; Fun</channel>
+  <channel update="i" site="dsmart.com.tr" site_id="66" xmltv_id="FastAndFun.tr">Fast and Fun</channel>
   <channel update="i" site="dsmart.com.tr" site_id="67" xmltv_id="NBATV.tr">NBA TV</channel>
   <channel update="i" site="dsmart.com.tr" site_id="68" xmltv_id="TAYTV.tr">TAY TV</channel>
   <channel update="i" site="dsmart.com.tr" site_id="71" xmltv_id="SporSmart.tr">Spor Smart</channel>
@@ -588,7 +589,7 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
   <channel update="i" site="turksatkablo.com.tr" site_id="109" xmltv_id="RUSSIA24.tr">RUSSIA 24</channel>
   <channel update="i" site="turksatkablo.com.tr" site_id="119" xmltv_id="VIASATNATURE-HISTORY.tr">VIASAT NATURE - HISTORY</channel>
   <channel update="i" site="turksatkablo.com.tr" site_id="120" xmltv_id="TREKHD.tr">TREK HD</channel>
-  <channel update="i" site="turksatkablo.com.tr" site_id="121" xmltv_id="SCIENCE&amp;VIEHD.tr">SCIENCE &amp; VIE HD</channel>
+  <channel update="i" site="turksatkablo.com.tr" site_id="121" xmltv_id="SCIENCEVIEHD.tr">SCIENCE &amp; VIE HD</channel>
   <channel update="i" site="turksatkablo.com.tr" site_id="130" xmltv_id="VIASATEXPLORE.tr">VIASAT EXPLORE</channel>
   <channel update="i" site="turksatkablo.com.tr" site_id="131" xmltv_id="ANIMAUX.tr">ANIMAUX</channel>
   <channel update="i" site="turksatkablo.com.tr" site_id="132" xmltv_id="RTGINT.tr">RTG INT</channel>
