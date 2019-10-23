@@ -463,7 +463,8 @@
   <channel update="i" site="digiturk.com.tr" site_id="507" xmltv_id="beINSPORTSMAX2HD.tr">beIN SPORTS MAX 2 HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="508" xmltv_id="beINSPORTSHABERHD.tr">beIN SPORTS HABER HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="497" xmltv_id="SSPORTHD.tr">S SPORT HD</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="331" xmltv_id="TRTSPORHD.tr">TRT SPOR HD</channel>
+  <channel update="i" site="digiturk.com.tr" site_id="470" xmltv_id="TRTSPORHD.tr">TRT SPOR HD</channel>
+  <channel update="i" site="digiturk.com.tr" site_id="533" xmltv_id="TRTSPOR2HD.tr">TRT SPOR 2 HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="433" xmltv_id="ASporHD.tr">A Spor HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="53" xmltv_id="TJKTV.tr">TJK TV</channel>
   <channel update="i" site="digiturk.com.tr" site_id="60" xmltv_id="MCMTopHD.tr">MCM Top HD</channel>
@@ -566,7 +567,7 @@
   <channel update="i" site="dsmart.com.tr" site_id="75" xmltv_id="FightBox.tr">FightBox</channel>
   <channel update="i" site="dsmart.com.tr" site_id="76" xmltv_id="FBTV.tr">FB TV</channel>
   <channel update="i" site="dsmart.com.tr" site_id="77" xmltv_id="SportsTv.tr">Sports Tv</channel>
-  <channel update="i" site="dsmart.com.tr" site_id="157" xmltv_id="TRT4K.tr">TRT 4K</channel>
+  <channel update="i" site="dsmart.com.tr" site_id="155" xmltv_id="TRT4K.tr">TRT 4K</channel>
 
 
   <channel update="i" site="turksatkablo.com.tr" site_id="2" xmltv_id="SİNEMATVHD.tr">SİNEMA TV HD</channel>
