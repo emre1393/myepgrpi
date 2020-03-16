@@ -1,6 +1,5 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 23/10/2019 05:53
-#  Response cookie from url :https://www.tvguide.co.uk/mobile/channellisting.asp?ch=1153
+#  Saved by WG++ 16/03/2020 07:17
+#  Response cookie from url :http://www.digiturk.com.tr/yayin-akisi/api/program/kanal/466/2020-03-19/5
 
-www.tvguide.co.uk	FALSE	/	FALSE	1603328400	TVGID%5Fsession	9999
-www.tvguide.co.uk	FALSE	/	TRUE	0	ASPSESSIONIDQUSDDSTS	HDONDAODKNLPJEGDMJGLFBAH
+.digiturk.com.tr	FALSE	/	FALSE	0	dtCookie	v_4_srv_4_sn_5791A7E8F6BE6707A5ABE5326E87A6C3_perc_100000_ol_0_mul_1
