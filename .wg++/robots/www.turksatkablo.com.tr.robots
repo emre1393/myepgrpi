@@ -1,5 +1,4 @@
-﻿# No data!
-# Dummy robots-data created by WebGrab+Plus:
-
-User-agent: *
-Disallow:
+﻿User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
