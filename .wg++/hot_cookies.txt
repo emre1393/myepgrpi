@@ -1,6 +1,6 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 14/01/2021 05:20
-#  Response cookie from url :http://www.digiturk.com.tr/yayin-akisi/api/program/kanal/466/2021-01-17/5
+#  Saved by WG++ 15/01/2021 05:21
+#  Response cookie from url :http://www.digiturk.com.tr/yayin-akisi/api/program/kanal/466/2021-01-18/5
 
-www.digiturk.com.tr	FALSE	/	FALSE	0	TS01238fc3	01321255f55bb7d428974add37c7afe9a670ea1ff6b25c65bedc130848f803513a21096059ea17ffbf17c34dce7c52b3d94d7993a9
-www.digiturk.com.tr	FALSE	/	FALSE	0	TS3f177c3a027	08ce1f984dab2000fb9ee1910d94642f4e5f20b879c8844745ff3e8ab33f0248262be88dffaf848308c15f3210113000b426d53623bce147baa4e0def9ee46d50a548134f272aed0d1669797a7352bb2bbd10a55fd402779f31e6b7f84b99557
+www.digiturk.com.tr	FALSE	/	FALSE	0	TS01238fc3	01321255f561a130bf6dd580076cdaa726ae16698df1e99db6d84ffb50435dd9c42874fc6e6bf96f6747b4a96d9cfefb21ead94bd9
+www.digiturk.com.tr	FALSE	/	FALSE	0	TS3f177c3a027	08ce1f984dab2000892a5606a7c2075de4a509f375b15407f2a22b5d7a4b4cb09d35a47fd2e35156085d867042113000e6cb89c674c199f2ba94e1342a97e844716b43c4c5389b3485be01c1d5a41e87f164fca7e61b17be4b84fe85a6cc8fa3
