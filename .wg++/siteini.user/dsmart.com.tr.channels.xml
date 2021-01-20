@@ -75,7 +75,8 @@
     <channel update="i" site="dsmart.com.tr" site_id="72" xmltv_id="Eurosport 2.tr">Eurosport 2</channel>
     <channel update="i" site="dsmart.com.tr" site_id="73" xmltv_id="Spor Smart.tr">Spor Smart</channel>
     <channel update="i" site="dsmart.com.tr" site_id="74" xmltv_id="S Sport.tr">S Sport</channel>
-    <channel update="i" site="dsmart.com.tr" site_id="75" xmltv_id="S Sport 2.tr">S Sport 2</channel>    <channel update="i" site="dsmart.com.tr" site_id="75" xmltv_id="FOX Sports.tr">FOX Sports</channel>
+    <channel update="i" site="dsmart.com.tr" site_id="75" xmltv_id="S Sport 2.tr">S Sport 2</channel>
+    <channel update="i" site="dsmart.com.tr" site_id="75" xmltv_id="FOX Sports.tr">FOX Sports</channel>
     <channel update="i" site="dsmart.com.tr" site_id="76" xmltv_id="a Spor.tr">a Spor</channel>
     <channel update="i" site="dsmart.com.tr" site_id="77" xmltv_id="FightBox.tr">FightBox</channel>
     <channel update="i" site="dsmart.com.tr" site_id="78" xmltv_id="Spor Smart 2.tr">Spor Smart</channel>
