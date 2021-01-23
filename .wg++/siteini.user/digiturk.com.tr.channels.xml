@@ -1,147 +1,141 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" site="digiturk.com.tr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="digiturk.com.tr">
   <channels>
-    <channel update="i" site="digiturk.com.tr" site_id="484" xmltv_id="beIN HD.tr">beIN HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="375" xmltv_id="beIN SERIES SCI-FI HD.tr">beIN SERIES SCI-FI HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="326" xmltv_id="beIN SERIES COMEDY HD.tr">beIN SERIES COMEDY HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="255" xmltv_id="beIN SERIES VICE HD.tr">beIN SERIES VICE HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="263" xmltv_id="beIN SERIES DRAMA HD.tr">beIN SERIES DRAMA HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="271" xmltv_id="beIN MOVIES PREMIERE HD.tr">beIN MOVIES PREMIERE HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="327" xmltv_id="beIN MOVIES PREMIERE 2 HD.tr">beIN MOVIES PREMIERE 2 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="272" xmltv_id="beIN MOVIES STARS HD.tr">beIN MOVIES STARS HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="453" xmltv_id="beIN MOVIES ACTION HD.tr">beIN MOVIES ACTION HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="454" xmltv_id="beIN MOVIES ACTION 2 HD.tr">beIN MOVIES ACTION 2 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="335" xmltv_id="beIN MOVIES FAMILY HD.tr">beIN MOVIES FAMILY HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="381" xmltv_id="beIN MOVIES TURK HD.tr">beIN MOVIES TURK HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="299" xmltv_id="beIN İZ HD.tr">beIN İZ HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="456" xmltv_id="beIN HOME &amp; ENTERTAINMENT HD.tr">beIN HOME &amp; ENTERTAINMENT HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="407" xmltv_id="beIN GURME HD.tr">beIN GURME HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="294" xmltv_id="Show TV HD.tr">Show TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="19" xmltv_id="TRT 1 HD.tr">TRT 1 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="430" xmltv_id="Kanal D HD.tr">Kanal D HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="300" xmltv_id="ATV HD.tr">ATV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="18" xmltv_id="FOX.tr">FOX</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="406" xmltv_id="Star TV HD.tr">Star TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="428" xmltv_id="TV8 HD.tr">TV8 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="30" xmltv_id="360 HD.tr">360 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="23" xmltv_id="TLC.tr">TLC</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="24" xmltv_id="Bloomberg HT HD.tr">Bloomberg HT HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="301" xmltv_id="A Haber HD.tr">A Haber HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="20" xmltv_id="TRT Haber HD.tr">TRT Haber HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="439" xmltv_id="KANAL 7 HD.tr">KANAL 7 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="490" xmltv_id="A2 HD.tr">A2 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="188" xmltv_id="BEYAZ TV HD.tr">BEYAZ TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="527" xmltv_id="TV 100.tr">TV 100</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="166" xmltv_id="Ülke TV HD.tr">Ülke TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="222" xmltv_id="TVNET HD.tr">TVNET HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="178" xmltv_id="24 HD.tr">24 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="28" xmltv_id="NTV HD.tr">NTV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="29" xmltv_id="CNN TÜRK HD.tr">CNN TÜRK HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="519" xmltv_id="A Para HD.tr">A Para HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="31" xmltv_id="HABERTURK HD.tr">HABERTURK HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="84" xmltv_id="TGRT Haber HD.tr">TGRT Haber HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="521" xmltv_id="EKOTÜRK TV HD.tr">EKOTÜRK TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="520" xmltv_id="HABER GLOBAL HD.tr">HABER GLOBAL HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="525" xmltv_id="TELE 1.tr">TELE 1</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="212" xmltv_id="DMAX HD.tr">DMAX HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="298" xmltv_id="Halk TV.tr">Halk TV</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="256" xmltv_id="Teve2 HD.tr">Teve2 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="489" xmltv_id="TV 8,5 HD.tr">TV 8,5 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="229" xmltv_id="TRT 3 - TRT Spor.tr">TRT 3 - TRT Spor</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="244" xmltv_id="TRT AVAZ.tr">TRT AVAZ</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="246" xmltv_id="TRT Kurdi.tr">TRT Kurdi</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="245" xmltv_id="TRT TURK.tr">TRT TURK</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="528" xmltv_id="KRT TV HD.tr">KRT TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="308" xmltv_id="TRT 2 HD.tr">TRT 2 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="332" xmltv_id="Diyanet TV HD.tr">Diyanet TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="47" xmltv_id="Eurosport 1 HD.tr">Eurosport 1 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="82" xmltv_id="Eurosport 2 HD.tr">Eurosport 2 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="250" xmltv_id="GS TV HD.tr">GS TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="55" xmltv_id="FB TV HD.tr">FB TV HD</channel>
-  	<channel update="i" site="digiturk.com.tr" site_id="193" xmltv_id="beIN SPORTS HD 1.tr">beIN SPORTS HD 1</channel>
-  	<channel update="i" site="digiturk.com.tr" site_id="310" xmltv_id="beIN SPORTS HD 2.tr">beIN SPORTS HD 2</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="312" xmltv_id="beIN SPORTS HD 3.tr">beIN SPORTS HD 3</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="495" xmltv_id="beIN SPORTS HD 4.tr">beIN SPORTS HD 4</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="506" xmltv_id="beIN SPORTS MAX 1 HD.tr">beIN SPORTS MAX 1 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="507" xmltv_id="beIN SPORTS MAX 2 HD.tr">beIN SPORTS MAX 2 HD</channel>
-  	<channel update="i" site="digiturk.com.tr" site_id="508" xmltv_id="beIN SPORTS HABER HD.tr">beIN SPORTS HABER HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="497" xmltv_id="S SPORT HD.tr">S SPORT HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="331" xmltv_id="TRT SPOR HD.tr">TRT SPOR HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="433" xmltv_id="A Spor HD.tr">A Spor HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="53" xmltv_id="TJK TV.tr">TJK TV</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="60" xmltv_id="MCM Top HD.tr">MCM Top HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="61" xmltv_id="Mezzo HD.tr">Mezzo HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="483" xmltv_id="beINHD.tr">beIN HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="375" xmltv_id="beINSERIESSCI-FIHD.tr">beIN SERIES SCI-FI HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="326" xmltv_id="beINSERIESCOMEDYHD.tr">beIN SERIES COMEDY HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="255" xmltv_id="beINSERIESVICEHD.tr">beIN SERIES VICE HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="263" xmltv_id="beINSERIESDRAMAHD.tr">beIN SERIES DRAMA HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="271" xmltv_id="beINMOVIESPREMIEREHD.tr">beIN MOVIES PREMIERE HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="327" xmltv_id="beINMOVIESPREMIERE2HD.tr">beIN MOVIES PREMIERE 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="272" xmltv_id="beINMOVIESSTARSHD.tr">beIN MOVIES STARS HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="453" xmltv_id="beINMOVIESACTIONHD.tr">beIN MOVIES ACTION HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="454" xmltv_id="beINMOVIESACTION2HD.tr">beIN MOVIES ACTION 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="335" xmltv_id="beINMOVIESFAMILYHD.tr">beIN MOVIES FAMILY HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="381" xmltv_id="beINMOVIESTURKHD.tr">beIN MOVIES TURK HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="299" xmltv_id="beINİZHD.tr">beIN İZ HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="456" xmltv_id="beINHOME&amp;ENTERTAINMENTHD.tr">beIN HOME &amp; ENTERTAINMENT HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="407" xmltv_id="beINGURMEHD.tr">beIN GURME HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="294" xmltv_id="ShowTVHD.tr">Show TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="19" xmltv_id="TRT1HD.tr">TRT 1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="430" xmltv_id="KanalDHD.tr">Kanal D HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="300" xmltv_id="ATVHD.tr">ATV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="18" xmltv_id="FOXHD.tr">FOX HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="406" xmltv_id="StarTVHD.tr">Star TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="428" xmltv_id="TV8HD.tr">TV8 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="30" xmltv_id="360HD.tr">360 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="23" xmltv_id="TLCHD.tr">TLC HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="24" xmltv_id="BloombergHTHD.tr">Bloomberg HT HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="301" xmltv_id="AHaberHD.tr">A Haber HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="20" xmltv_id="TRTHaberHD.tr">TRT Haber HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="439" xmltv_id="KANAL7HD.tr">KANAL 7 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="490" xmltv_id="A2HD.tr">A2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="188" xmltv_id="BEYAZTVHD.tr">BEYAZ TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="527" xmltv_id="TV100HD.tr">TV 100 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="166" xmltv_id="ÜlkeTVHD.tr">Ülke TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="222" xmltv_id="TVNETHD.tr">TVNET HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="178" xmltv_id="KANAL24HD.tr">KANAL 24 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="28" xmltv_id="NTVHD.tr">NTV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="29" xmltv_id="CNNTÜRKHD.tr">CNN TÜRK HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="519" xmltv_id="AParaHD.tr">A Para HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="31" xmltv_id="HABERTURKHD.tr">HABERTURK HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="84" xmltv_id="TGRTHaberHD.tr">TGRT Haber HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="521" xmltv_id="EKOTÜRKTVHD.tr">EKOTÜRK TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="520" xmltv_id="HABERGLOBALHD.tr">HABER GLOBAL HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="525" xmltv_id="TELE1HD.tr">TELE 1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="212" xmltv_id="DMAXHD.tr">DMAX HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="534" xmltv_id="UçanKuşTV.tr">Uçan Kuş TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="298" xmltv_id="HalkTV.tr">Halk TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="256" xmltv_id="Teve2HD.tr">Teve2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="229" xmltv_id="TRT3-TRTSpor.tr">TRT 3 - TRT Spor</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="244" xmltv_id="TRTAVAZ.tr">TRT AVAZ</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="246" xmltv_id="TRTKurdi.tr">TRT Kurdi</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="245" xmltv_id="TRTTURK.tr">TRT TURK</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="528" xmltv_id="KRTTVHD.tr">KRT TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="308" xmltv_id="TRT2HD.tr">TRT 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="332" xmltv_id="DiyanetTVHD.tr">Diyanet TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="47" xmltv_id="Eurosport1HD.tr">Eurosport 1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="82" xmltv_id="Eurosport2HD.tr">Eurosport 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="250" xmltv_id="GSTVHD.tr">GS TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="55" xmltv_id="FBTVHD.tr">FB TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="193" xmltv_id="beINSPORTSHD1.tr">beIN SPORTS HD 1</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="310" xmltv_id="beINSPORTSHD2.tr">beIN SPORTS HD 2</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="312" xmltv_id="beINSPORTSHD3.tr">beIN SPORTS HD 3</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="495" xmltv_id="beINSPORTSHD4.tr">beIN SPORTS HD 4</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="506" xmltv_id="beINSPORTSMAX1HD.tr">beIN SPORTS MAX 1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="507" xmltv_id="beINSPORTSMAX2HD.tr">beIN SPORTS MAX 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="508" xmltv_id="beINSPORTSHABERHD.tr">beIN SPORTS HABER HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="331" xmltv_id="TRTSPORHD.tr">TRT SPOR HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="533" xmltv_id="TRTSpor2HD.tr">TRT Spor 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="433" xmltv_id="ASporHD.tr">A Spor HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="53" xmltv_id="TJKTV.tr">TJK TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="60" xmltv_id="MCMTopHD.tr">MCM Top HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="61" xmltv_id="MezzoHD.tr">Mezzo HD</channel>
     <channel update="i" site="digiturk.com.tr" site_id="63" xmltv_id="VH1.tr">VH1</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="261" xmltv_id="TRT Müzik.tr">TRT Müzik</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="316" xmltv_id="Kral TV.tr">Kral TV</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="322" xmltv_id="MTV Live HD.tr">MTV Live HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="337" xmltv_id="MTV Hits.tr">MTV Hits</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="74" xmltv_id="Fashion TV HD.tr">Fashion TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="459" xmltv_id="BBC HD.tr">BBC HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="88" xmltv_id="BBC Entertainment.tr">BBC Entertainment</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="85" xmltv_id="RAI UNO.tr">RAI UNO</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="86" xmltv_id="TV5 Monde Europe.tr">TV5 Monde Europe</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="262" xmltv_id="TRT Arabi.tr">TRT Arabi</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="523" xmltv_id="CGTN HD.tr">CGTN HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="369" xmltv_id="RTR PLANETA.tr">RTR PLANETA</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="137" xmltv_id="BLOOMBERG HD.tr">BLOOMBERG HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="501" xmltv_id="A News HD.tr">A News HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="77" xmltv_id="BBC World News HD.tr">BBC World News HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRT World HD.tr">TRT World HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="76" xmltv_id="CNN INTERNATIONAL.tr">CNN INTERNATIONAL</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="182" xmltv_id="AL JAZEERA ENGLISH HD.tr">AL JAZEERA ENGLISH HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="261" xmltv_id="TRTMüzik.tr">TRT Müzik</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="322" xmltv_id="MTVLiveHD.tr">MTV Live HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="337" xmltv_id="MTVHits.tr">MTV Hits</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="74" xmltv_id="FashionTVHD.tr">Fashion TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="459" xmltv_id="BBCFirst.tr">BBC First</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="88" xmltv_id="BBCEntertainment.tr">BBC Entertainment</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="85" xmltv_id="RAIUNO.tr">RAI UNO</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="86" xmltv_id="TV5MondeEurope.tr">TV5 Monde Europe</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="262" xmltv_id="TRTArabi.tr">TRT Arabi</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="523" xmltv_id="CGTNHD.tr">CGTN HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="369" xmltv_id="RTRPLANETA.tr">RTR PLANETA</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="137" xmltv_id="BLOOMBERGHD.tr">BLOOMBERG HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="501" xmltv_id="ANewsHD.tr">A News HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="77" xmltv_id="BBCWorldNewsHD.tr">BBC World News HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorldHD.tr">TRT World HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="76" xmltv_id="CNNINTERNATIONAL.tr">CNN INTERNATIONAL</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="182" xmltv_id="ALJAZEERAENGLISHHD.tr">AL JAZEERA ENGLISH HD</channel>
     <channel update="i" site="digiturk.com.tr" site_id="78" xmltv_id="EURONEWS.tr">EURONEWS</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="285" xmltv_id="France 24 HD.tr">France 24 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="477" xmltv_id="Al Quran Al Kareem TV HD.tr">Al Quran Al Kareem TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="478" xmltv_id="Al Sunnah Al Nabawiyah TV HD.tr">Al Sunnah Al Nabawiyah TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="243" xmltv_id="TRT Çocuk.tr">TRT Çocuk</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="512" xmltv_id="CBEEBIES HD.tr">CBEEBIES HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="436" xmltv_id="Baby TV.tr">Baby TV</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="529" xmltv_id="Da Vinci.tr">Da Vinci</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="282" xmltv_id="Disney Junior.tr">Disney Junior</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="67" xmltv_id="Disney XD.tr">Disney XD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="186" xmltv_id="Disney Channel.tr">Disney Channel</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="518" xmltv_id="BOOMERANG HD.tr">BOOMERANG HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="220" xmltv_id="Cartoon Network.tr">Cartoon Network</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="285" xmltv_id="France24HD.tr">France 24 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="477" xmltv_id="AlQuranAlKareemTVHD.tr">Al Quran Al Kareem TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="478" xmltv_id="AlSunnahAlNabawiyahTVHD.tr">Al Sunnah Al Nabawiyah TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="536" xmltv_id="TRTEBATVİLKOKULHD.tr">TRT EBATV İLKOKUL HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="537" xmltv_id="TRTEBATVORTAOKULHD.tr">TRT EBATV ORTAOKUL HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="538" xmltv_id="TRTEBATVLİSEHD.tr">TRT EBATV LİSE HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="243" xmltv_id="TRTÇocuk.tr">TRT Çocuk</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="512" xmltv_id="CBEEBIESHD.tr">CBEEBIES HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="436" xmltv_id="BabyTV.tr">Baby TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="529" xmltv_id="DaVinci.tr">Da Vinci</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="282" xmltv_id="DisneyJunior.tr">Disney Junior</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="186" xmltv_id="DisneyChannel.tr">Disney Channel</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="518" xmltv_id="BOOMERANGHD.tr">BOOMERANG HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="220" xmltv_id="CartoonNetwork.tr">Cartoon Network</channel>
     <channel update="i" site="digiturk.com.tr" site_id="291" xmltv_id="MinikaGO.tr">MinikaGO</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="321" xmltv_id="Nick Jr..tr">Nick Jr.</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="321" xmltv_id="NickJr..tr">Nick Jr.</channel>
     <channel update="i" site="digiturk.com.tr" site_id="189" xmltv_id="Nickelodeon.tr">Nickelodeon</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="351" xmltv_id="Nickelodeon HD.tr">Nickelodeon HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="58" xmltv_id="National Geographic.tr">National Geographic</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="159" xmltv_id="beIN İZ HD.tr">beIN İZ HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="513" xmltv_id="BBC EARTH HD.tr">BBC EARTH HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="437" xmltv_id="Nat Geo People HD.tr">Nat Geo People HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="179" xmltv_id="Nat Geo Wild HD.tr">Nat Geo Wild HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="57" xmltv_id="History HD.tr">History HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="260" xmltv_id="TRT Belgesel HD.tr">TRT Belgesel HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="317" xmltv_id="Discovery Channel HD.tr">Discovery Channel HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="318" xmltv_id="Discovery Science HD.tr">Discovery Science HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="524" xmltv_id="CGTN DOCUMENTARY HD.tr">CGTN DOCUMENTARY HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="36" xmltv_id="beIN BOX OFFICE 1 HD.tr">beIN BOX OFFICE 1 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="37" xmltv_id="beIN BOX OFFICE 2 HD.tr">beIN BOX OFFICE 2 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="38" xmltv_id="beIN BOX OFFICE 3 HD.tr">beIN BOX OFFICE 3 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="415" xmltv_id="İdman Azerbaycan.tr">İdman Azerbaycan</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="330" xmltv_id="TRT1 HD.tr">TRT1 HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="488" xmltv_id="TRT Haber HD.tr">TRT Haber HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="469" xmltv_id="TRT World HD.tr">TRT World HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="333" xmltv_id="Nickelodeon HD.tr">Nickelodeon HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="487" xmltv_id="TRT Belgesel HD.tr">TRT Belgesel HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="323" xmltv_id="MTV Live HD.tr">MTV Live HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="491" xmltv_id="Digiturk 4K.tr">Digiturk 4K</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="91" xmltv_id="ALEM FM.tr">ALEM FM</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="419" xmltv_id="Best FM.tr">Best FM</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="482" xmltv_id="Kral Pop Radyo.tr">Kral Pop Radyo</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="383" xmltv_id="Slow Türk.tr">Slow Türk</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="379" xmltv_id="Show Radyo.tr">Show Radyo</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="421" xmltv_id="Kral FM.tr">Kral FM</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="380" xmltv_id="Radyo Viva.tr">Radyo Viva</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="422" xmltv_id="Baba Radyo.tr">Baba Radyo</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="107" xmltv_id="5+1 Concerts.tr">5+1 Concerts</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="334" xmltv_id="FOX.tr">FOX</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="302" xmltv_id="A Haber HD.tr">A Haber HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="466" xmltv_id="Beyaz TV HD.tr">Beyaz TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="486" xmltv_id="FB TV HD.tr">FB TV HD</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="470" xmltv_id="TRT Spor.tr">TRT Spor</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="438" xmltv_id="A Spor HD.tr">A Spor HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="351" xmltv_id="NickelodeonHD.tr">Nickelodeon HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="214" xmltv_id="NationalGeographicHD.tr">National Geographic HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="159" xmltv_id="beINİZHD.tr">beIN İZ HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="513" xmltv_id="BBCEARTHHD.tr">BBC EARTH HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="179" xmltv_id="NatGeoWildHD.tr">Nat Geo Wild HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="532" xmltv_id="YabanTV.tr">Yaban TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="487" xmltv_id="TRTBelgeselHD.tr">TRT Belgesel HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="317" xmltv_id="DiscoveryChannelHD.tr">Discovery Channel HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="318" xmltv_id="DiscoveryScienceHD.tr">Discovery Science HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="524" xmltv_id="CGTNDOCUMENTARYHD.tr">CGTN DOCUMENTARY HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="36" xmltv_id="beINBOXOFFICE1HD.tr">beIN BOX OFFICE 1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="37" xmltv_id="beINBOXOFFICE2HD.tr">beIN BOX OFFICE 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="38" xmltv_id="beINBOXOFFICE3HD.tr">beIN BOX OFFICE 3 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="138" xmltv_id="TaraftarHD.tr">Taraftar HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="304" xmltv_id="Taraftar2HD.tr">Taraftar 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="330" xmltv_id="TRT1HD.tr">TRT1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="469" xmltv_id="TRTWorldHD.tr">TRT World HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="333" xmltv_id="NickelodeonHD.tr">Nickelodeon HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="323" xmltv_id="MTVLiveHD.tr">MTV Live HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="491" xmltv_id="Digiturk4K.tr">Digiturk 4K</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="91" xmltv_id="ALEMFM.tr">ALEM FM</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="419" xmltv_id="BestFM.tr">Best FM</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="482" xmltv_id="KralPopRadyo.tr">Kral Pop Radyo</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="383" xmltv_id="SlowTürk.tr">Slow Türk</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="379" xmltv_id="ShowRadyo.tr">Show Radyo</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="421" xmltv_id="KralFM.tr">Kral FM</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="380" xmltv_id="RadyoViva.tr">Radyo Viva</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="422" xmltv_id="BabaRadyo.tr">Baba Radyo</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="107" xmltv_id="5+1Concerts.tr">5+1 Concerts</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="470" xmltv_id="TRTSpor.tr">TRT Spor</channel>
   </channels>
 </site>
