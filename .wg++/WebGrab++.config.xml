@@ -412,10 +412,8 @@
   <channel update="i" site="digiturk.com.tr" site_id="454" xmltv_id="beINMOVIESACTION2HD.tr">beIN MOVIES ACTION 2 HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="335" xmltv_id="beINMOVIESFAMILYHD.tr">beIN MOVIES FAMILY HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="381" xmltv_id="beINMOVIESTURKHD.tr">beIN MOVIES TURK HD</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="299" xmltv_id="beINİZHD.tr">beIN İZ HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="456" xmltv_id="beINHOME&amp;ENTERTAINMENTHD.tr">beIN HOME &amp; ENTERTAINMENT HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="294" xmltv_id="ShowTVHD.tr">Show TV HD</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="19" xmltv_id="TRT1HD.tr">TRT 1 HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="430" xmltv_id="KanalDHD.tr">Kanal D HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="300" xmltv_id="ATVHD.tr">ATV HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="18" xmltv_id="FOXHD.tr">FOX HD</channel>
@@ -521,9 +519,6 @@
   <channel update="i" site="digiturk.com.tr" site_id="138" xmltv_id="TaraftarHD.tr">Taraftar HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="304" xmltv_id="Taraftar2HD.tr">Taraftar 2 HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="330" xmltv_id="TRT1HD.tr">TRT1 HD</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="469" xmltv_id="TRTWorldHD.tr">TRT World HD</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="333" xmltv_id="NickelodeonHD.tr">Nickelodeon HD</channel>
-  <channel update="i" site="digiturk.com.tr" site_id="323" xmltv_id="MTVLiveHD.tr">MTV Live HD</channel>
   <channel update="i" site="digiturk.com.tr" site_id="491" xmltv_id="Digiturk4K.tr">Digiturk 4K</channel>
   <channel update="i" site="digiturk.com.tr" site_id="91" xmltv_id="ALEMFM.tr">ALEM FM</channel>
   <channel update="i" site="digiturk.com.tr" site_id="419" xmltv_id="BestFM.tr">Best FM</channel>
