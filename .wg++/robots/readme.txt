@@ -1,0 +1,1 @@
+if you see forbidden error for a website, disable write permission and delete forbidden message from site.robots files.
